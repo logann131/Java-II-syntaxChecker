@@ -1,3 +1,8 @@
+/* Nam Phu Nguyen (Logan)
+   CS142 
+   Programing Assignment
+ */ 
+
 public class SyntaxCheckerClient
 {
 
