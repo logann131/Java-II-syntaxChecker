@@ -1,5 +1,5 @@
 /* Nam Phu Nguyen (Logan)
-   CS142 
+   IT220-JAVA II 
    Programing Assignment
  */ 
 
