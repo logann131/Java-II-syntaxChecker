@@ -1,3 +1,7 @@
+/* Nam Phu Nguyen (Logan)
+   CS142 
+   Programing Assignment
+ */ 
 import java.util.*;
 
 public class SyntaxChecker {
